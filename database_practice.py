@@ -1,6 +1,7 @@
 
 def put_in_db(line_items):
-    
+    print(line_items)
+    return None
 
 def read_all_that_data():
 
